@@ -3,7 +3,7 @@ from rsi_same_day_df import rsi_same_day_df
 
 st.title("📊 Acompanhe seu portifólio - Tabela RSI")
 
-tickers = ['CMIG4.SA', 'PETR4.SA', 'VALE3.SA', 'ITUB4.SA', 'BBDC4.SA']
+tickers = ['CMIG4.SA', 'SAPR11.SA', 'BBAS3.SA']
 
 df = rsi_same_day_df(
     tickers=tickers,
