@@ -51,3 +51,4 @@ def calculate_rsi(
     )
 
     return df
+
